@@ -1,0 +1,28 @@
+
+#cadre_afaire {
+	border : solid;
+	border-color : black;
+	width : 900px ;
+	height : 200px;
+	position : relative ;
+	top : 80px ;
+	left : 450px ;
+}
+#cadre_encours {
+	border : solid;
+	border-color : black;
+	width : 900px ;
+	height : 200px;
+	position : relative ;
+	top : 80px ;
+	left : 450px ;
+}
+#cadre_envoye {
+	border : solid;
+	border-color : black;
+	width : 900px ;
+	height : 200px;
+	position : relative ;
+	top : 80px ;
+	left : 450px ;
+}
